@@ -1,0 +1,34 @@
+[
+    {
+        "op": "add",
+        "path": "/parent",
+        "value": "minecraft:story/form_obsidian"
+    },
+    {
+        "op": "replace",
+        "path": "/display/announce_to_chat",
+        "value": true
+    },
+    {
+        "op": "replace",
+        "path": "/display/show_toast",
+        "value": true
+    },
+    {
+        "op": "replace",
+        "path": "/display/title/translate",
+        "value": "advancements.story.enter_the_nether.title"
+    },
+    {
+        "op": "replace",
+        "path": "/display/description/translate",
+        "value": "advancements.story.enter_the_nether.description"
+    },
+    {
+        "op": "replace",
+        "path": "/display/icon",
+        "value": {
+            "item": "minecraft:flint_and_steel"
+        }
+    }
+]

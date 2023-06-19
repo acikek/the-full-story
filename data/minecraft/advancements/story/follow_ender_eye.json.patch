@@ -1,0 +1,5 @@
+{
+    "op": "replace",
+    "path": "/parent",
+    "value": "minecraft:nether/obtain_blaze_rod"
+}

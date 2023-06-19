@@ -1,0 +1,11 @@
+[
+    {
+        "op": "replace",
+        "path": "/parent",
+        "value": "minecraft:story/root"
+    },
+    {
+        "op": "remove",
+        "path": "/display"
+    }
+]
